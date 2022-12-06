@@ -1,0 +1,20 @@
+1 db fő weboldal "index html menürendszer olyan legyen, hogy minimum 3 weboldalra lehessen menni vele 1
+
+lehet önmagára mutatás
+
+nem baj ha nem megy át a másikra
+
+logót építsük bele
+
+minimum 2 forrás legyen benne
+
+amit külön jelezni kell (Honnan, miként, melyik részeket raktuk bele és miért?)
+
+formázni kell
+
+minimum 1 css (Igényes legyen a munka, ne csak 1 darab formázás legyen,)
+
+boostrap keretrendszer legyen benne (Nagy és kis méretű képernyőn is működjön)
+
+Mindegy, hogy statikusan vagy interneten csináljuk a boostrapot
+
